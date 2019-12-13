@@ -2,7 +2,7 @@ To start database connection:
 In the "backend" directory, use:
 ### `npm start`
 
-![ServerStart](https://ibb.co/q9xNB60)
+![ServerRunningExer-Track](https://user-images.githubusercontent.com/50600343/70830298-e10d6f80-1dbd-11ea-8173-2fb9eaadece1.PNG)
 
 In the project directory, you can run:
 
