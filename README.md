@@ -1,3 +1,32 @@
+To start database connection:
+In the "backend" directory, use:
+### `npm start`
+
+![ServerStart](https://ibb.co/q9xNB60)
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+Application Functionality:
+
+Adding new users:
+![NewUserPage](https://ibb.co/7zkKmHT)
+
+Adding Exercises
+![NewExer](https://ibb.co/f0xkWcp)
+
+View/update/delete Exercises
+![ViewExer](https://ibb.co/mCfjXns)
+
+Items stored in MongoDB
+![Mongo](https://ibb.co/5BR1mZV)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
