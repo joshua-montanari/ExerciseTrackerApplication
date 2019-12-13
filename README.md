@@ -13,16 +13,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Application Functionality:
 
-Adding new users:
+## Adding new users:
 ![NewUserPage](https://user-images.githubusercontent.com/50600343/70830450-35185400-1dbe-11ea-9e8a-f0e38c2343a3.PNG)
 
-Adding Exercises
+## Adding Exercises
 ![CreateNewExer](https://user-images.githubusercontent.com/50600343/70830484-42cdd980-1dbe-11ea-89f4-21b8b8d73575.PNG)
 
-View/update/delete Exercises
+## View/update/delete Exercises
 ![Exer](https://user-images.githubusercontent.com/50600343/70830497-4c574180-1dbe-11ea-9ba9-d4b142c26a14.PNG)
 
-Items stored in MongoDB
+## Items stored in MongoDB
 ![mongodbtest](https://user-images.githubusercontent.com/50600343/70830505-54af7c80-1dbe-11ea-93bf-b0da16fe467a.PNG)
 
 
